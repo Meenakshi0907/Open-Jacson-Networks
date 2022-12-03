@@ -22,6 +22,7 @@ Visual components and Python
 
 
 ## Program
+```
 Name : Meenakshi
 Reg No: 212221230057
 
@@ -62,7 +63,7 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-
+```
 ## Output
 ![image](https://user-images.githubusercontent.com/94165108/204833495-18ddcc28-dd1a-474c-a893-f320bd36d554.png)
 
